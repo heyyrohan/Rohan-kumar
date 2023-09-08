@@ -1,3 +1,4 @@
+![logo](https://github.com/heyyrohan/Rohan-kumar/blob/main/developer.gif)
 <h1 align="center">Hi 👋, I'm Rohan Kumar</h1>
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/Ug6cbVA1ZsMAAAAd/developer.gif">
 - 🌱 I’m currently learning **NODE JS,React,Mongo db**
